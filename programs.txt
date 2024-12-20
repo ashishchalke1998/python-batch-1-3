@@ -1,0 +1,30 @@
+"""print("Hello World")
+
+num1 = int(input("Enter value for num1 : "))
+print("The value of num1 is : ", num1)
+
+num2 = int(input("Enter value for num2 : "))
+print("The value of num2 is : ", num2)
+
+result = num1 / num2
+print("The result is : ", result)
+result = num1 // num2
+print("The result is : ", result)
+result = num1 % num2
+print("The result is : ", result)"""
+
+
+radius = int(input("Enter value for radius : "))
+#areaOfCircle = 3.14 * radius * radius
+areaOfCircle = 22/7 * radius * radius   => 12.56
+print("Area of circle : ", areaOfCircle)
+
+# celsuis to degrees
+
+
+# simple interest  -> (p*n*r)/100
+
+
+
+
+
